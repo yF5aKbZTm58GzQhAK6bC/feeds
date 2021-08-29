@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://archiveofourown.org/works/22049998/navigate</id>
+    <title>Honeymoon (by JohnBurtonLee)</title>
+    <updated>2021-08-29T22:08:33.323Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://archiveofourown.org/works/22049998/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1. Chapter 1]]></title>
+        <id>https://archiveofourown.org/works/22049998/chapters/52623790</id>
+        <link href="https://archiveofourown.org/works/22049998/chapters/52623790"/>
+        <updated>2020-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/22049998/chapters/52623790">1. Chapter 1</a> <span class="datetime">(2020-01-02)</span>]]></content>
+    </entry>
+</feed>
