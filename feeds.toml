@@ -1,13 +1,9 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[calamities]
+title = "calamities (by Shializaro)"
+url = "https://archiveofourown.org/works/30589355/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
