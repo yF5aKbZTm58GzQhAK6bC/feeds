@@ -7,7 +7,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[Celestial Fix]
+[celestial_fix]
 title = "Celestial Fix (by KrakenMo)"
 url = "https://archiveofourown.org/works/24814768/navigate"
 entrySelector = "#main > ol > li"
@@ -16,7 +16,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[this city of teeth and bones]
+[this_city_of_teeth_and_bones]
 title = " This City of Bones and Teeth (by TheSleepingKnight)"
 url = "https://archiveofourown.org/works/23996719/navigate"
 entrySelector = "#main > ol > li"
@@ -25,7 +25,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[shepherding the flock]
+[shepherding_the_flock]
 title = " Shepherding the flock (by ReverendSwing)"
 url = "https://archiveofourown.org/works/24240892/navigate"
 entrySelector = "#main > ol > li"
@@ -43,7 +43,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[pink fang]
+[pink_fang]
 title = "Pink Fang (by avulle)"
 url = "https://archiveofourown.org/works/29408700/navigate"
 entrySelector = "#main > ol > li"
@@ -61,7 +61,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[just a phase]
+[just_a_phase]
 title = "Just a Phase (by FirstSelector)"
 url = "https://archiveofourown.org/works/30186441/navigate"
 entrySelector = "#main > ol > li"
@@ -70,7 +70,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[Inheriting the Mantle]
+[inheriting_the_mantle]
 title = "Inheriting the Mantle (by SugarcaneSoldier)"
 url = "https://archiveofourown.org/works/22235908/navigate"
 entrySelector = "#main > ol > li"
@@ -79,7 +79,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[honemoon]
+[honeymoon]
 title = "Honeymoon (by JohnBurtonLee)"
 url = "https://archiveofourown.org/works/22049998/navigate"
 entrySelector = "#main > ol > li"
@@ -88,7 +88,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[Drifting Leaves in Solar Wind]
+[drifting_leaves_in_solar_wind]
 title = "Drifting Leaves in Solar Wind (by StevieTheCrusher)"
 url = "https://archiveofourown.org/works/19779754/navigate"
 entrySelector = "#main > ol > li"
@@ -97,7 +97,7 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
-[dont text and spar kids]
+[dont_text_and_spar_kids]
 title = "dont text and spar kids (by orphan_account)"
 url = "https://archiveofourown.org/works/20213980/navigate"
 entrySelector = "#main > ol > li"
