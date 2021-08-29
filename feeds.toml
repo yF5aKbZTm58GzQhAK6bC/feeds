@@ -7,3 +7,101 @@ linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
 
+[Celestial Fix]
+title = "Celestial Fix (by KrakenMo)"
+url = "https://archiveofourown.org/works/24814768/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[this city of teeth and bones]
+title = " This City of Bones and Teeth (by TheSleepingKnight)"
+url = "https://archiveofourown.org/works/23996719/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[shepherding the flock]
+title = " Shepherding the flock (by ReverendSwing)"
+url = "https://archiveofourown.org/works/24240892/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[shamus]
+title = "Shamus (by AWorldWithoutShrimp)"
+url = "https://archiveofourown.org/works/21871912/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[pink fang]
+title = "Pink Fang (by avulle)"
+url = "https://archiveofourown.org/works/29408700/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[outlet]
+title = "Outlet (by La_Matrona, ShayaLonnie)"
+url = "https://archiveofourown.org/works/22249729/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[just a phase]
+title = "Just a Phase (by FirstSelector)"
+url = "https://archiveofourown.org/works/30186441/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[Inheriting the Mantle]
+title = "Inheriting the Mantle (by SugarcaneSoldier)"
+url = "https://archiveofourown.org/works/22235908/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[honemoon]
+title = "Honeymoon (by JohnBurtonLee)"
+url = "https://archiveofourown.org/works/22049998/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[Drifting Leaves in Solar Wind]
+title = "Drifting Leaves in Solar Wind (by StevieTheCrusher)"
+url = "https://archiveofourown.org/works/19779754/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
+
+[dont text and spar kids]
+title = "dont text and spar kids (by orphan_account)"
+url = "https://archiveofourown.org/works/20213980/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
