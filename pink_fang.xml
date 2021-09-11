@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/29408700/navigate</id>
     <title>Pink Fang (by avulle)</title>
-    <updated>2021-09-11T05:39:06.960Z</updated>
+    <updated>2021-09-11T17:44:48.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/29408700/favicon.ico</icon>
     <entry>
@@ -109,5 +109,12 @@
         <link href="https://archiveofourown.org/works/29408700/chapters/83340220"/>
         <updated>2021-08-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/29408700/chapters/83340220">15. Chapter 15</a> <span class="datetime">(2021-08-28)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16. Chapter 16]]></title>
+        <id>https://archiveofourown.org/works/29408700/chapters/84071191</id>
+        <link href="https://archiveofourown.org/works/29408700/chapters/84071191"/>
+        <updated>2021-09-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/29408700/chapters/84071191">16. Chapter 16</a> <span class="datetime">(2021-09-11)</span>]]></content>
     </entry>
 </feed>
