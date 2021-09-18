@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yF5aKbZTm58GzQhAK6bC.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-18T05:38:55.881Z</updated>
+    <updated>2021-09-18T17:42:18.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1. Chapter 1 (calamities (by Shializaro))]]></title>
@@ -59,6 +59,13 @@
         <link href="https://archiveofourown.org/works/30589355/chapters/83498419"/>
         <updated>2021-08-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/30589355/chapters/83498419">8. Chapter 8</a> <span class="datetime">(2021-08-31)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9. Chapter 9 (calamities (by Shializaro))]]></title>
+        <id>https://archiveofourown.org/works/30589355/chapters/84436366</id>
+        <link href="https://archiveofourown.org/works/30589355/chapters/84436366"/>
+        <updated>2021-09-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/30589355/chapters/84436366">9. Chapter 9</a> <span class="datetime">(2021-09-18)</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1. Dead Reckoning (Celestial Fix (by KrakenMo))]]></title>

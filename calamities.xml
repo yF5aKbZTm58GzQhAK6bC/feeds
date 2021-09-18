@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/30589355/navigate</id>
     <title>calamities (by Shializaro)</title>
-    <updated>2021-09-18T05:38:55.775Z</updated>
+    <updated>2021-09-18T17:42:18.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/30589355/favicon.ico</icon>
     <entry>
@@ -60,5 +60,12 @@
         <link href="https://archiveofourown.org/works/30589355/chapters/83498419"/>
         <updated>2021-08-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/30589355/chapters/83498419">8. Chapter 8</a> <span class="datetime">(2021-08-31)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9. Chapter 9]]></title>
+        <id>https://archiveofourown.org/works/30589355/chapters/84436366</id>
+        <link href="https://archiveofourown.org/works/30589355/chapters/84436366"/>
+        <updated>2021-09-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/30589355/chapters/84436366">9. Chapter 9</a> <span class="datetime">(2021-09-18)</span>]]></content>
     </entry>
 </feed>
