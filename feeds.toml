@@ -105,3 +105,12 @@ titleSelector = "a"
 linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
+
+[an_eagle_among_lions]
+title = "An Eagle Among Lions"
+url = "https://archiveofourown.org/works/24608248/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
