@@ -114,3 +114,12 @@ titleSelector = "a"
 linkSelector = "a"
 dateSelector = "span"
 dateFormat = "(yyyy-MM-dd)"
+
+[mind_ur_own_beesknees]
+title = "mind ur own beesknees"
+url = "https://archiveofourown.org/works/34873207/navigate"
+entrySelector = "#main > ol > li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "span"
+dateFormat = "(yyyy-MM-dd)"
