@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/24608248/navigate</id>
     <title>An Eagle Among Lions</title>
-    <updated>2021-11-22T17:47:09.786Z</updated>
+    <updated>2021-12-09T15:33:04.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/24608248/favicon.ico</icon>
     <entry>
@@ -466,5 +466,12 @@
         <link href="https://archiveofourown.org/works/24608248/chapters/87651331"/>
         <updated>2021-11-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24608248/chapters/87651331">66. Bloodied Hands, Part II</a> <span class="datetime">(2021-11-17)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[67. Bloodied Hands, Part III]]></title>
+        <id>https://archiveofourown.org/works/24608248/chapters/88221055</id>
+        <link href="https://archiveofourown.org/works/24608248/chapters/88221055"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24608248/chapters/88221055">67. Bloodied Hands, Part III</a> <span class="datetime">(2021-11-29)</span>]]></content>
     </entry>
 </feed>
