@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yF5aKbZTm58GzQhAK6bC.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-11T17:42:29.539Z</updated>
+    <updated>2021-12-12T05:36:04.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1. Chapter 1 (calamities (by Shializaro))]]></title>
@@ -1662,6 +1662,13 @@
         <link href="https://archiveofourown.org/works/24608248/chapters/88221055"/>
         <updated>2021-11-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24608248/chapters/88221055">67. Bloodied Hands, Part III</a> <span class="datetime">(2021-11-29)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[68. Revolution by Night (An Eagle Among Lions)]]></title>
+        <id>https://archiveofourown.org/works/24608248/chapters/88895848</id>
+        <link href="https://archiveofourown.org/works/24608248/chapters/88895848"/>
+        <updated>2021-12-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24608248/chapters/88895848">68. Revolution by Night</a> <span class="datetime">(2021-12-12)</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1. Endings: One (mind ur own beesknees)]]></title>
