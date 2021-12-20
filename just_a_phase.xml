@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/30186441/navigate</id>
     <title>Just a Phase (by FirstSelector)</title>
-    <updated>2021-12-19T17:44:44.013Z</updated>
+    <updated>2021-12-20T05:37:51.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/30186441/favicon.ico</icon>
     <entry>
@@ -74,5 +74,12 @@
         <link href="https://archiveofourown.org/works/30186441/chapters/84359380"/>
         <updated>2021-09-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/30186441/chapters/84359380">10. Interlude 2.⍺</a> <span class="datetime">(2021-09-17)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11. Loophole 2.5]]></title>
+        <id>https://archiveofourown.org/works/30186441/chapters/89309260</id>
+        <link href="https://archiveofourown.org/works/30186441/chapters/89309260"/>
+        <updated>2021-12-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/30186441/chapters/89309260">11. Loophole 2.5</a> <span class="datetime">(2021-12-20)</span>]]></content>
     </entry>
 </feed>

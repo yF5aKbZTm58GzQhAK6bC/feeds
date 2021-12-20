@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yF5aKbZTm58GzQhAK6bC.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-19T17:44:44.043Z</updated>
+    <updated>2021-12-20T05:37:51.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1. Chapter 1 (calamities (by Shializaro))]]></title>
@@ -1032,6 +1032,13 @@
         <link href="https://archiveofourown.org/works/30186441/chapters/84359380"/>
         <updated>2021-09-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/30186441/chapters/84359380">10. Interlude 2.⍺</a> <span class="datetime">(2021-09-17)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11. Loophole 2.5 (Just a Phase (by FirstSelector))]]></title>
+        <id>https://archiveofourown.org/works/30186441/chapters/89309260</id>
+        <link href="https://archiveofourown.org/works/30186441/chapters/89309260"/>
+        <updated>2021-12-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/30186441/chapters/89309260">11. Loophole 2.5</a> <span class="datetime">(2021-12-20)</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1. A Challenger Approaches (Inheriting the Mantle (by SugarcaneSoldier))]]></title>
