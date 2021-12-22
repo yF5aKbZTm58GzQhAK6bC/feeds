@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/24240892/navigate</id>
     <title> Shepherding the flock (by ReverendSwing)</title>
-    <updated>2021-12-21T17:46:22.154Z</updated>
+    <updated>2021-12-22T05:37:27.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/24240892/favicon.ico</icon>
     <entry>
@@ -137,5 +137,12 @@
         <link href="https://archiveofourown.org/works/24240892/chapters/87408262"/>
         <updated>2021-11-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24240892/chapters/87408262">19. Gaiden (Chapter 18.5)</a> <span class="datetime">(2021-11-12)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20. Chapter 19]]></title>
+        <id>https://archiveofourown.org/works/24240892/chapters/89414341</id>
+        <link href="https://archiveofourown.org/works/24240892/chapters/89414341"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24240892/chapters/89414341">20. Chapter 19</a> <span class="datetime">(2021-12-21)</span>]]></content>
     </entry>
 </feed>
