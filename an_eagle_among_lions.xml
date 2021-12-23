@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/24608248/navigate</id>
     <title>An Eagle Among Lions</title>
-    <updated>2021-12-23T05:37:46.167Z</updated>
+    <updated>2021-12-23T17:45:32.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/24608248/favicon.ico</icon>
     <entry>
@@ -480,5 +480,12 @@
         <link href="https://archiveofourown.org/works/24608248/chapters/88895848"/>
         <updated>2021-12-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24608248/chapters/88895848">68. Revolution by Night</a> <span class="datetime">(2021-12-12)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[69. Fear in a Handful of Dust]]></title>
+        <id>https://archiveofourown.org/works/24608248/chapters/89491780</id>
+        <link href="https://archiveofourown.org/works/24608248/chapters/89491780"/>
+        <updated>2021-12-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24608248/chapters/89491780">69. Fear in a Handful of Dust</a> <span class="datetime">(2021-12-23)</span>]]></content>
     </entry>
 </feed>
