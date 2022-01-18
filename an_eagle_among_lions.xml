@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/24608248/navigate</id>
     <title>An Eagle Among Lions</title>
-    <updated>2022-01-17T17:47:47.594Z</updated>
+    <updated>2022-01-18T05:39:51.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/24608248/favicon.ico</icon>
     <entry>
@@ -494,5 +494,12 @@
         <link href="https://archiveofourown.org/works/24608248/chapters/90489118"/>
         <updated>2022-01-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24608248/chapters/90489118">70. Some Destinies Should Not Be Delivered</a> <span class="datetime">(2022-01-08)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[71. For the World Is Hollow and I Have Touched the Sky]]></title>
+        <id>https://archiveofourown.org/works/24608248/chapters/90995980</id>
+        <link href="https://archiveofourown.org/works/24608248/chapters/90995980"/>
+        <updated>2022-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24608248/chapters/90995980">71. For the World Is Hollow and I Have Touched the Sky</a> <span class="datetime">(2022-01-17)</span>]]></content>
     </entry>
 </feed>
