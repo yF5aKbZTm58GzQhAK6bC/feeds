@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/24608248/navigate</id>
     <title>An Eagle Among Lions</title>
-    <updated>2022-01-30T17:36:56.123Z</updated>
+    <updated>2022-01-31T05:35:09.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/24608248/favicon.ico</icon>
     <entry>
@@ -501,5 +501,12 @@
         <link href="https://archiveofourown.org/works/24608248/chapters/90995980"/>
         <updated>2022-01-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24608248/chapters/90995980">71. For the World Is Hollow and I Have Touched the Sky</a> <span class="datetime">(2022-01-17)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[72. Romance of the World's Perdition, Part I]]></title>
+        <id>https://archiveofourown.org/works/24608248/chapters/91747642</id>
+        <link href="https://archiveofourown.org/works/24608248/chapters/91747642"/>
+        <updated>2022-01-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24608248/chapters/91747642">72. Romance of the World's Perdition, Part I</a> <span class="datetime">(2022-01-31)</span>]]></content>
     </entry>
 </feed>
