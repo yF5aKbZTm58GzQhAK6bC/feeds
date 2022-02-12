@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yF5aKbZTm58GzQhAK6bC.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-11T17:37:02.388Z</updated>
+    <updated>2022-02-12T05:35:23.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1. Chapter 1 (calamities (by Shializaro))]]></title>
@@ -1732,5 +1732,12 @@
         <link href="https://archiveofourown.org/works/24608248/chapters/91747642"/>
         <updated>2022-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24608248/chapters/91747642">72. Romance of the World's Perdition, Part I</a> <span class="datetime">(2022-01-31)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[73. Romance of the World's Perdition, Part II (An Eagle Among Lions)]]></title>
+        <id>https://archiveofourown.org/works/24608248/chapters/92413660</id>
+        <link href="https://archiveofourown.org/works/24608248/chapters/92413660"/>
+        <updated>2022-02-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24608248/chapters/92413660">73. Romance of the World's Perdition, Part II</a> <span class="datetime">(2022-02-11)</span>]]></content>
     </entry>
 </feed>
