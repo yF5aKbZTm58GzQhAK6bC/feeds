@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/24608248/navigate</id>
     <title>An Eagle Among Lions</title>
-    <updated>2022-03-20T17:37:37.030Z</updated>
+    <updated>2022-03-21T05:35:46.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/24608248/favicon.ico</icon>
     <entry>
@@ -536,5 +536,12 @@
         <link href="https://archiveofourown.org/works/24608248/chapters/93934483"/>
         <updated>2022-03-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24608248/chapters/93934483">76. Interlude: The Remnant</a> <span class="datetime">(2022-03-09)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[77. Möbius]]></title>
+        <id>https://archiveofourown.org/works/24608248/chapters/94551727</id>
+        <link href="https://archiveofourown.org/works/24608248/chapters/94551727"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24608248/chapters/94551727">77. Möbius</a> <span class="datetime">(2022-03-21)</span>]]></content>
     </entry>
 </feed>
