@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archiveofourown.org/works/24608248/navigate</id>
     <title>An Eagle Among Lions</title>
-    <updated>2022-04-28T17:42:07.642Z</updated>
+    <updated>2022-04-29T05:40:16.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archiveofourown.org/works/24608248/favicon.ico</icon>
     <entry>
@@ -557,5 +557,12 @@
         <link href="https://archiveofourown.org/works/24608248/chapters/95849611"/>
         <updated>2022-04-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/works/24608248/chapters/95849611">79. ...But I Can't Trace Time</a> <span class="datetime">(2022-04-13)</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80. The Widening Gyre, Part I]]></title>
+        <id>https://archiveofourown.org/works/24608248/chapters/96663072</id>
+        <link href="https://archiveofourown.org/works/24608248/chapters/96663072"/>
+        <updated>2022-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/works/24608248/chapters/96663072">80. The Widening Gyre, Part I</a> <span class="datetime">(2022-04-28)</span>]]></content>
     </entry>
 </feed>
